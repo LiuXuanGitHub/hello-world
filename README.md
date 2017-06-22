@@ -1,3 +1,1 @@
-# hello-world
-a place where I store ideas
-I like Git-hub
+# hello-worlda place where I store ideasI like Git-hub# Come on
